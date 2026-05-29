@@ -1,1 +1,65 @@
-{"bingung":[{"id":1779074082286,"text":"Apa bedanya sama face recognition lain?\n","createdAt":"2026-05-18T03:14:42.286Z"},{"id":1779074116192,"text":"masih bisa diakalin ga(pake foto atau vidio?)","createdAt":"2026-05-18T03:15:16.192Z"},{"id":1779075341531,"text":"ui lumayan overwhelming\n","createdAt":"2026-05-18T03:35:41.531Z"}],"ide":[{"id":1779072310705,"text":"kasih info bahwa data mereka beneran secure\n","createdAt":"2026-05-18T02:45:10.895Z"},{"id":1779072366168,"text":"tambahin opsi bahasa","createdAt":"2026-05-18T02:46:06.168Z"},{"id":1779073094341,"text":"menggunakan ai detector pada wajah untuk mencegah adanya penipuan melalui AI","createdAt":"2026-05-18T02:58:14.341Z"},{"id":1779076006811,"text":"Masukkan validasi kalau pencahayaannya kurang","createdAt":"2026-05-18T03:46:46.811Z"}],"kelebihan":[{"id":1779073125152,"text":"desainnya menarik","createdAt":"2026-05-18T02:58:45.152Z"},{"id":1779075312045,"text":"fungsional","createdAt":"2026-05-18T03:35:12.045Z"},{"id":1779076039329,"text":"secara fitur dan ui/ux sudah mudah dipahami","createdAt":"2026-05-18T03:47:19.329Z"}],"kekurangan":[{"id":1779073324966,"text":"sistem real detectionnya bisa diimprove karena, sistemnya bisa di bypass dengan mudah dengan menggunakan video ","createdAt":"2026-05-18T03:02:04.966Z"}]}
+{
+    "bingung": [
+        {
+            "id": 1779074082286,
+            "text": "Apa bedanya sama face recognition lain?\n",
+            "createdAt": "2026-05-18T03:14:42.286Z"
+        },
+        {
+            "id": 1779074116192,
+            "text": "masih bisa diakalin ga(pake foto atau vidio?)",
+            "createdAt": "2026-05-18T03:15:16.192Z"
+        },
+        {
+            "id": 1779075341531,
+            "text": "ui lumayan overwhelming\n",
+            "createdAt": "2026-05-18T03:35:41.531Z"
+        }
+    ],
+    "ide": [
+        {
+            "id": 1779072310705,
+            "text": "kasih info bahwa data mereka beneran secure\n",
+            "createdAt": "2026-05-18T02:45:10.895Z"
+        },
+        {
+            "id": 1779072366168,
+            "text": "tambahin opsi bahasa",
+            "createdAt": "2026-05-18T02:46:06.168Z"
+        },
+        {
+            "id": 1779073094341,
+            "text": "menggunakan ai detector pada wajah untuk mencegah adanya penipuan melalui AI",
+            "createdAt": "2026-05-18T02:58:14.341Z"
+        },
+        {
+            "id": 1779076006811,
+            "text": "Masukkan validasi kalau pencahayaannya kurang",
+            "createdAt": "2026-05-18T03:46:46.811Z"
+        }
+    ],
+    "kelebihan": [
+        {
+            "id": 1779073125152,
+            "text": "desainnya menarik",
+            "createdAt": "2026-05-18T02:58:45.152Z"
+        },
+        {
+            "id": 1779075312045,
+            "text": "fungsional",
+            "createdAt": "2026-05-18T03:35:12.045Z"
+        },
+        {
+            "id": 1779076039329,
+            "text": "secara fitur dan ui/ux sudah mudah dipahami",
+            "createdAt": "2026-05-18T03:47:19.329Z"
+        }
+    ],
+    "kekurangan": [
+        {
+            "id": 1779073324966,
+            "text": "sistem real detectionnya bisa diimprove karena, sistemnya bisa di bypass dengan mudah dengan menggunakan video ",
+            "createdAt": "2026-05-18T03:02:04.966Z"
+        }
+    ]
+}
